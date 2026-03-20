@@ -1,16 +1,18 @@
 # Hi there, I'm ltj1353 👋
 
-I'm a **3rd-year Computer Science student** exploring the intersection of AI/ML and Bioinformatics.  
-Still figuring out my direction — but curious, learning, and building.
+I'm a **3rd-year CS student** at Korea University Sejong Campus,  
+exploring the intersection of **AI/ML** and **Bioinformatics**.  
+Still finding my path — but curious, consistent, and always building.
 
 ---
 
 ## 🧭 About Me
 
-- 🎓 B.S. in Computer Science (3rd year)
-- 🔬 Interested in **AI/ML** and **Bioinformatics** (actively exploring)
+- 🎓 Dept. of Computer Science and Software Engineering, **Korea University Sejong Campus** (3rd year)
+- 🔬 Interests: **AI / Machine Learning**, **Bioinformatics** (actively exploring)
 - 🐍 Main language: **Python**
-- 📌 Currently: Strengthening fundamentals through algorithm practice
+- 📌 Currently sharpening problem-solving skills through daily algorithm practice
+- 🌱 Open to internship opportunities and research collaborations
 
 ---
 
@@ -19,7 +21,7 @@ Still figuring out my direction — but curious, learning, and building.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-> More to be added as I grow 🌱
+> Expanding steadily — more to come 🌱
 
 ---
 
@@ -27,9 +29,9 @@ Still figuring out my direction — but curious, learning, and building.
 
 | Project | Description | Tech | Status |
 |---------|-------------|------|--------|
-| 🔢 [BaekjoonHub](https://github.com/ltj1353/BaekjoonHub) | Algorithm problem solving (auto-pushed via BaekjoonHub) | Python | 🟢 Ongoing |
-| 🚧 *Coming soon* | <!-- Add your next project here --> | — | — |
-| 🚧 *Coming soon* | <!-- Add your next project here --> | — | — |
+| 🔢 [Algorithm Practice](https://github.com/ltj1353/BaekjoonHub) | Baekjoon problem solutions, auto-pushed via BaekjoonHub | Python | 🟢 Ongoing |
+| 🚧 *Coming soon* | <!-- Project name & link --> | — | — |
+| 🚧 *Coming soon* | <!-- Project name & link --> | — | — |
 
 ---
 
@@ -39,22 +41,22 @@ Still figuring out my direction — but curious, learning, and building.
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals
 
-- [ ] <!-- e.g., Complete a personal AI/ML project -->
-- [ ] <!-- e.g., Contribute to an open-source bioinformatics tool -->
-- [ ] <!-- e.g., Land a summer internship -->
+- [ ] Build a personal AI/ML or Bioinformatics project from scratch
+- [ ] Contribute to an open-source project
+- [ ] Land a summer internship (2025)
+- [ ] <!-- Add your own goal here -->
 
 ---
 
 ## 📫 Contact
 
-<!-- Update with your actual contact info -->
-- 📧 Email: `your.email@example.com`
-- 💼 LinkedIn: [*Add your LinkedIn URL*]
+- 📧 Email: `your.email@example.com` <!-- Replace with your email -->
+- 💼 LinkedIn: [Add LinkedIn URL] <!-- Replace with your LinkedIn -->
 
 ---
 
 <p align="center">
-  <sub>Always learning. Open to collaboration and internship opportunities.</sub>
+  <sub>Always learning · Open to collaboration and internship opportunities</sub>
 </p>
