@@ -52,8 +52,7 @@ Still finding my path — but curious, consistent, and always building.
 
 ## 📫 Contact
 
-- 📧 Email: `your.email@example.com` <!-- Replace with your email -->
-- 💼 LinkedIn: [Add LinkedIn URL] <!-- Replace with your LinkedIn -->
+- 📧 Email: `taejini1353@gmail.com` <!-- Replace with your email -->
 
 ---
 
